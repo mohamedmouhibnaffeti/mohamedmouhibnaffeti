@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fd/b2/1c/fdb21c0e4f3dbb6ccd9a63c68fce8645.gif)
+![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM4OTExa3ZoM3R4M2hsMDMzejhveHlmenZ2cHZrOHNjbXc2b2QwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9SXXoBoDcZEMH6ps0/giphy.webp)
 <h1 align="center">Hi 👋, I'm Mohamed Mouhib Naffeti</h1>
 <h3 align="center">A passionate architect of the digital realm || Seeker of hidden patterns in data</h3>
 <img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"/>
