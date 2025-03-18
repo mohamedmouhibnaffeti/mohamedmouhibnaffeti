@@ -11,7 +11,7 @@ About Me<br>👨‍💻 Currently Working On: Developing projects with a focus o
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmouhibnaffeti&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api?username=mohamedmouhibnaffeti&theme=neon&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=mohamedmouhibnaffeti&theme=neon&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmouhibnaffeti&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmouhibnaffeti&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
